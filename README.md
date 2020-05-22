@@ -1,0 +1,2 @@
+# LinuxShell_nameserver
+nslookup
